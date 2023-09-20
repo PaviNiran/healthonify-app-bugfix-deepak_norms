@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1023680758521",
+    "project_id": "healthonify-7506a",
+    "storage_bucket": "healthonify-7506a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023680758521:android:5de7153f0fee0521c45828",
+        "android_client_info": {
+          "package_name": "com.example.healthonify_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023680758521-hhdlbe0kq4shth2oe7vt6h3h7nphdv99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4OWezjPGXRz3EqCF8-X6i_X6c-vtpqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023680758521-hhdlbe0kq4shth2oe7vt6h3h7nphdv99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023680758521-p7a6199js4r9tpeandkvql0dqke815hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octal.healthonifyMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023680758521:android:5dcea7a962cbb70ac45828",
+        "android_client_info": {
+          "package_name": "com.octal.healthonify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023680758521-hhdlbe0kq4shth2oe7vt6h3h7nphdv99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4OWezjPGXRz3EqCF8-X6i_X6c-vtpqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023680758521-hhdlbe0kq4shth2oe7vt6h3h7nphdv99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023680758521-p7a6199js4r9tpeandkvql0dqke815hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octal.healthonifyMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
